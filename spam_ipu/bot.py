@@ -29,11 +29,7 @@ subject_text = 'Regarding Exams During the Corona Pandemic'
 
 body_text = '''Respected Sir/Ma'am
 
-The corona pandemic has over 199K confirmed cases and this number is still rising. The government has allowed for local shops and business to be opened but that is only because it was affecting their livelihood and the economy.
-
-Conducting exam in this environment when strict social distancing is to be followed, is dangerous and will result in spreading of corona virus. The notice issued by the government stated that they will discuss the reopening of the educational institutes on 1 July but the "proposed datasheet" issued by university stated commencement of exams from 22 June.
-
-Due to these reason we request postponing the exams and if the situation still remains bad cancelling of the exams. 
+This is test email to show the spam feature of the gmail.
  
 '''
 
@@ -76,7 +72,7 @@ for i in range(n):
     time.sleep(4)
 
     to = f.find_element_by_name('to')
-    to.send_keys('ipucovidgrievances@gmail.com')
+    to.send_keys('sarthakmisraa@gmail.com')
 
     time.sleep(2)
     
