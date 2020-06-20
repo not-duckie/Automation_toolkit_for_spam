@@ -5,7 +5,7 @@ messages thus circulating the message to large number of crowd.
 
 It will use your gmail account and send the email any number of time you ask it to.
 
-Install python3 on your pc with Chrome/Chromium Browser and this script will to the rest.
+Install python3 on your pc with Firefox Browser and this script will to the rest.
 
 ## Requirements:
 
